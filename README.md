@@ -1,6 +1,6 @@
 ### Hey there 👋, I'm gyndav
 
-👨🏻‍💻 I'm a passionate **Product Engineer** who loves frictionless experiences. Above everything, I appreciate Platforms.
+👨🏻‍💻 I'm a passionate **Product Engineer** and "Hands-On" **Engineering Manager** who loves frictionless experiences. Above everything, I appreciate Platforms.
 
 #### Want some moar?
 
