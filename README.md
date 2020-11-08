@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there 👋, I'm gyndav
+
+👨🏻‍💻 I'm a passionate **Product Engineer** who loves frictionless experiences. Above everything, I appreciate Platforms.
+
+#### Want some moar?
+
+🔭 Currently working at [Heetch](https://www.heetch.com/) as a **Senior Engineering Manager** and building various things with my teams such as a 💞 Customer Care platform, seemless 🚚 Delivery for all engineers and a 💰 Money platform.
+
+💬 Ask me about _Software Architecture_ (my first ❤️), 🔁 automation _CI/CD_, 🐳 Docker (ECS/k8s) or any #engineering #management related topics (such as Career Growth 🌱).
+
+⚡ Fun fact: I used to 🏀 for a living!
 
 <!--
 **gyndav/gyndav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
