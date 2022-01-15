@@ -1,10 +1,10 @@
 ### Hey there 👋, I'm gyndav
 
-👨🏻‍💻 I'm a passionate **Product Engineer** and "Hands-On" **Engineering Manager** who loves frictionless experiences. Above everything, I appreciate Platforms.
+👨🏻‍💻 I'm a passionate **Product Engineer** and "Hands-On" **Engineering Leader** who loves frictionless experiences. Above everything, I appreciate Platforms.
 
 #### Want some moar?
 
-🔭 Currently working at [Heetch](https://www.heetch.com/) as a **Senior Engineering Manager** and building various things with my teams such as a 💞 Customer Care platform, seemless 🚚 Delivery for all engineers and a 💰 Money platform.
+🔭 Currently working at [Heetch](https://www.heetch.com/) as a **Engineering Director** and building various things with my teams such as a 💞 Customer Care platform, seemless 🚚 Delivery for all engineers and a 💰 Money platform.
 
 💬 Ask me about _Software Architecture_ (my first ❤️), 🔁 automation _CI/CD_, 🐳 Docker (ECS/k8s) or any #engineering #management related topics (such as Career Growth 🌱).
 
