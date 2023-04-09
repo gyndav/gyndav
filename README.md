@@ -4,7 +4,7 @@
 
 #### Want some moar?
 
-🔭 Currently working at [Heetch](https://www.heetch.com/) as a **Engineering Director** and building various things with my teams such as a 💞 Customer Care platform, seemless 🚚 Delivery for all engineers and a 💰 Money platform.
+🔭 Currently working at [Heetch](https://www.heetch.com/) as a **VP of Engineering** and building various things with all the teams such as rebuilding our money platform for African market.
 
 💬 Ask me about _Software Architecture_ (my first ❤️), 🔁 automation _CI/CD_, 🐳 Docker (ECS/k8s) or any #engineering #management related topics (such as Career Growth 🌱).
 
